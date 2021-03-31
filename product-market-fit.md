@@ -4,6 +4,8 @@ title: The Product Market Fit Definitive Guide
 permalink: /the-product-market-fit-definitive-guide/
 ---
 
+i'm on 03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/01-uncovering-hidden-needs-from-target-users.txt
+
 I really like how the quiz is embedded with the content
 
 	it would be cool if there were two checkmarks at the top of the table of contents
