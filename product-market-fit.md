@@ -4,20 +4,19 @@ title: The Product Market Fit Definitive Guide
 permalink: /the-product-market-fit-definitive-guide/
 ---
 
-i'm on 03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/01-uncovering-hidden-needs-from-target-users.txt (line 27)
+i'm on 03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/03-develop-market-thesis.txt
 
-I really like how the quiz is embedded with the content
+make a quiz, suggest parts for them to read if they answer a certain way
 
-	it would be cool if there were two checkmarks at the top of the table of contents
+quiz
 
-	content
-	quiz
+do you have recurring users, customers?
 
-	this way they can uncheck the content part and take the quiz
+yes
+	-> 
 
-		maybe this is too confusing 
-
-			yeah it is
+no
+	-> 
 
 https://read.activelylearn.com/#teacher/reader/authoring/preview/717432/notes
 
@@ -37,7 +36,6 @@ prototype
 
 	and manually do your service
 
-
 ----------------------
 create a svg with https://mermaid-js.github.io/mermaid-live-editor
 ```mermaid
@@ -49,16 +47,5 @@ C --> D
 ```
 ----------------------
 
-
-
-quiz
-
-do you have recurring users, customers?
-
-yes
-	-> 
-
-no
-	-> 
 
 
