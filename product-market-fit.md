@@ -49,7 +49,6 @@ C --> D
 ```
 ----------------------
 
-                Example: zuckerberg made facebook when he was in college. It was perfect for college students because college kids meet new people ALL THE TIME, and facebook was perfect for them. If facebook launched for highschool or the workplace, it wouldn't have worked as well because highschool kids stay in the same cliques and don't meet new people, and adults are boring and never meet anyone new. College kids are constantly meeting new people while taking new classes, going to parties, doing intramural activities, walking to class, getting food at the dining hall, working out at the gym, going to a football/basketball game, studying at the library, doing laundry, etc. 
 
 
 quiz
