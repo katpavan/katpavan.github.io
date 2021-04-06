@@ -4,6 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+These are companies I've made angel investments in.
+
 - [Care Connection Health](https://www.careconnectionhealth.com) - Helping medical practices increase their revenue via medicare reimbursment for offering preventative care to their patients. 
 - [KidzToPros](https://www.kidztopros.com) - KidzToPros offer home learning pods where students can learn in small group sizes in a safe environment. They also offer after-school programs, summer camps. 
 - [Fabalish](https://www.fabalish.com) - plant-based & allergen free falafel and aquafaba sauces. No meat, dairy, eggs, nuts, soy, gluten, sugar or anything artificial in their foods.
