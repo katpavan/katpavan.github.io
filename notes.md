@@ -13,6 +13,11 @@ yes
 no
     -> 
 
+follow me on twitter
+    bottom of pmf guide
+
+top should be go back to my blog link
+
 https://read.activelylearn.com/#teacher/reader/authoring/preview/717432/notes
 
 strtup boost newsletter - jason said he'd put it in there
