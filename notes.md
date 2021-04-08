@@ -5,6 +5,11 @@ i'm on
 
     move h3 sections indented over from h2 sections, and so on
 
+        <div class="row-fluid">
+            <div class="span11 offset1">
+            </div>
+        </div>
+        
     04-why-fin-usrs will be first part of Interviewing prospective customers
 
     05-how-fin-usrs-2-interv will be second part of Interviewing prospective customers
