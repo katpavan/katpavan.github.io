@@ -1,7 +1,12 @@
 i'm on 
 
-    03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/06-how-2-tlk-2-usrs/06-finding-bst-trgt-usrs-to-mold-ur-prdct
+    03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/06-how-2-tlk-2-usrs/07-questions-to-ask/01-what-is-hardest-part-about.txt
         you're putting this into 11 Questions to ask during interview
+
+    06-finding-bst-trgt-usrs-to-mold-ur-prdct
+        not sure where to put this
+
+        maybe in reflect
 
     04-why-fin-usrs will be first part of Interviewing prospective customers
 
@@ -12,7 +17,7 @@ i'm on
         you want to add this part to the google workbook
 
     ul, ol, dl, table have different font sizes and styles, fix that
-    
+
 done
     move h3 sections indented over from h2 sections, and so on
 
