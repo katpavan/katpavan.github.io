@@ -1,5 +1,5 @@
 
-i'm on 03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/05-look-for-problems-that-are-a-huge-pain-OR-that-people-face-on-a-regular-basis.txt
+i'm on 03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/06-how-2-tlk-2-usrs/03-3-errs-whn-tlkin-2-usrs
 
 make a quiz, suggest parts for them to read if they answer a certain way
 
