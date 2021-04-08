@@ -1,5 +1,17 @@
+i'm on 
 
-i'm on 03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/06-how-2-tlk-2-usrs/03-3-errs-whn-tlkin-2-usrs
+    03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/06-how-2-tlk-2-usrs/06-finding-bst-trgt-usrs-to-mold-ur-prdct
+        you're putting this into 11 Questions to ask during interview
+
+    move h3 sections indented over from h2 sections, and so on
+
+    04-why-fin-usrs will be first part of Interviewing prospective customers
+
+    05-how-fin-usrs-2-interv will be second part of Interviewing prospective customers
+
+    06-finding-bst-trgt will be in the Reflect section
+
+        you want to add this part to the google workbook
 
 make a quiz, suggest parts for them to read if they answer a certain way
 
