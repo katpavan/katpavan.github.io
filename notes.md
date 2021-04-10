@@ -1,6 +1,6 @@
 i'm on 
 
-    03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/06-how-2-tlk-2-usrs/07-questions-to-ask/01-what-is-hardest-part-about.txt
+    03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/06-how-2-tlk-2-usrs/07-questions-to-ask/02
         you're putting this into 11 Questions to ask during interview
 
     06-finding-bst-trgt-usrs-to-mold-ur-prdct
@@ -17,6 +17,8 @@ i'm on
         you want to add this part to the google workbook
 
     ul, ol, dl, table have different font sizes and styles, fix that
+
+    update google workbook with the reflect section
 
 done
     move h3 sections indented over from h2 sections, and so on
