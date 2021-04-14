@@ -4,9 +4,9 @@ i'm on
         you're putting this into question 10
 
     06-finding-bst-trgt-usrs-to-mold-ur-prdct
-        not sure where to put this
+        put this in
 
-        maybe in reflect
+            <h4>Questions to determine if they're a good customer</h4> 
 
     04-why-fin-usrs will be first part of Interviewing prospective customers
 
