@@ -1,8 +1,5 @@
 i'm on 
 
-    03-PROCESS-finding-their-hidden-needs-digging-into-their-solutions/06-how-2-tlk-2-usrs/07-questions-to-ask/11
-        you're putting this into question 10
-
     06-finding-bst-trgt-usrs-to-mold-ur-prdct
         put this in
 
