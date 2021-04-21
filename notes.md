@@ -5,8 +5,6 @@ i'm on
 
             <h4>Questions to determine if they're a good customer</h4> 
 
-    04-why-fin-usrs will be first part of Interviewing prospective customers
-
     05-how-fin-usrs-2-interv will be second part of Interviewing prospective customers
 
     06-finding-bst-trgt will be in the Reflect section
