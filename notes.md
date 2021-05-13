@@ -1,3 +1,11 @@
+got rid of this:
+    
+    ---
+    layout: pmf
+    title: The Product Market Fit Definitive Guide
+    permalink: /how-to-achieve-product-market-fit-the-definitive-guide/
+    ---
+
 i'm on 
 
     06-finding-bst-trgt-usrs-to-mold-ur-prdct
