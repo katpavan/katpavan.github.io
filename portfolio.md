@@ -6,6 +6,9 @@ permalink: /portfolio/
 
 These are companies I've made angel investments in. I've put $600k of my own money into these companies.
 
+## Security
+- [Stratodyne](https://www.linkedin.com/company/stratodyne/) - making persistent aerial surveillance feasible through small interconnected blimps that can fly for months in the stratosphere. 
+
 ## Healthcare
 
 - [Care Connection Health](https://www.careconnectionhealth.com) - Helping medical practices increase their revenue via medicare reimbursment for offering preventative care to their patients. 
