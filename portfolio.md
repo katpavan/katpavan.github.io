@@ -7,7 +7,14 @@ permalink: /portfolio/
 These are companies I've made angel investments in. I've put $1M of my own money into these companies.
 
 ## Security
-- [Stratodyne](https://www.linkedin.com/company/stratodyne/) - making persistent aerial surveillance feasible through small interconnected blimps that can fly for months in the stratosphere. 
+
+- [Aethero](https://aethero.com/) - making persistent aerial surveillance feasible through small interconnected blimps that can fly for months in the stratosphere. 
+
+## Web3
+
+- [Hey Mint](https://www.heymint.xyz/) - Powerful NFT Creator tools. Created by [Curious Addys' Trading Club](https://curiousaddys.com/)
+- [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains. 
+
 
 ## Healthcare
 
@@ -19,6 +26,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 - [KidzToPros](https://www.kidztopros.com) - KidzToPros offer home learning pods where students can learn in small group sizes in a safe environment. They also offer after-school programs, summer camps. 
 
 ## E-commerce
+
 - [Baaz](https://baaz.live/) - Live commerce infrastructure for e-commerce stores. Stores can reveal exclusive collections with the help of an influencer or themselves via live shopping shows to a large audience. Stores can also setup a video call button so customers can talk to a shop owner one on one.
 
 
