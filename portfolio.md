@@ -12,9 +12,11 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## Web3
 
-- [Hey Mint](https://www.heymint.xyz/) - Powerful NFT Creator tools. Created by [Curious Addys' Trading Club](https://curiousaddys.com/)
+- [Hey Mint](https://www.heymint.xyz/) - Powerful NFT Creator tools. Created by [Curious Addys' Trading Club](https://curiousaddys.com/).
 - [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains. 
-
+- [Tavern](https://tavern.space/) - Tavern is the largest two-sided network connecting all Gamers and Guilds.
+- [Legends of Venari](https://legendsofvenari.com/) - Merging NFTs with a creature collection RPG.
+- [Gaggle Studios](https://gaggle.fun/) - Building gaming worlds and social bonds around social experiences.
 
 ## Healthcare
 
