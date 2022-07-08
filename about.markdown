@@ -14,4 +14,4 @@ That's when I embarked upon studying PMF. I spent hundreds of hours reading, tak
 
 ## Angel Investing 
 
-Since 2019, I've invested $600k of my own money into startups. I do two to four deals a year, and I write checks anywhere from $25k to $100k. If you're a startup founder and you have great metrics, reach out to me. 
+Since 2019, I've invested $1M of my own money into startups. I do two to four deals a year, and I write checks anywhere from $25k to $100k. If you're a startup founder and you have great metrics, reach out to me. 
