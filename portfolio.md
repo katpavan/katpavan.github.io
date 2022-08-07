@@ -16,7 +16,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 - [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains. 
 - [Tavern](https://tavern.space/) - Tavern is the largest two-sided network connecting all Gamers and Guilds.
 - [Legends of Venari](https://legendsofvenari.com/) - Merging NFTs with a creature collection RPG.
-- [QU3ST](https://twitter.com/QU3ST_io/) - QU3ST is most successful Axie Infinity eSports team. They are also answering difficult questions for Sky Mavis using ML, data analysis and community engagement.
+- [QU3ST](https://qu3st.substack.com/p/qu3st-joins-the-ronin-network-as/) - QU3ST is one of the most successful Axie Infinity eSports teams. They are also answering difficult questions for Sky Mavis using ML, data analysis and community engagement.
 - [Swift Studios](http://www.solomid.net/) - Team SoloMid's Web3 Gaming Studio.
 - [Gaggle Studios](https://gaggle.fun/) - Building gaming worlds and social bonds around social experiences.
 
