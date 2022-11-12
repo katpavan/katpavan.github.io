@@ -28,7 +28,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## E-commerce
 
-- [Baaz](https://baaz.live/) - Live commerce infrastructure for e-commerce stores. Stores can reveal exclusive collections with the help of an influencer or themselves via live shopping shows to a large audience. Stores can also setup a video call button so customers can talk to a shop owner one on one.
+- [Araavly](https://www.araavly.com/) - B2B cross-border eCommerce is broken & unorganized for India-to-US corridors, Araavly is fixing this. Previously was [Baaz](https://baaz.live/) doing live commerce infrastructure for e-commerce stores. Stores revealed exclusive collections with the help of an influencer or themselves via live shopping shows to a large audience.
 
 
 ## Plant based
