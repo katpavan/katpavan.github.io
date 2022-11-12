@@ -6,15 +6,12 @@ permalink: /portfolio/
 
 These are companies I've made angel investments in. I've put $1M of my own money into these companies.
 
-## Security
-
-- [Aethero](https://aethero.com/) - making persistent aerial surveillance feasible through small interconnected blimps that can fly for months in the stratosphere. 
-
 ## Web3
 
 - [Hey Mint](https://www.heymint.xyz/) - Powerful NFT Creator tools. Created by [Curious Addys' Trading Club](https://curiousaddys.com/).
+- [Bastion Finance](https://www.bastionfinance.com/) - Turn your spare change into passive income. Round up your spare change and invest it into U.S treasury bonds, T-Bills, and CD portfolios generating 4-6% APY - all within one app. This startup was previously Aethero where they made persistent aerial surveillance feasible through small interconnected blimps that flew for months in the stratosphere.
 - [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains. 
-- [Tavern](https://tavern.space/) - Tavern is the largest two-sided network connecting all Gamers and Guilds.
+- [Tavern](https://tavern.space/) - A Web3 Event Management Platform. Host Events, Reward Attendees with NFT Badges and no wallets required, making it a truly seamless experience. Previously, Tavern was the largest two-sided network connecting all Gamers and Guilds.
 - [Legends of Venari](https://legendsofvenari.com/) - Merging NFTs with a creature collection RPG.
 - [QU3ST](https://qu3st.substack.com/p/qu3st-joins-the-ronin-network-as/) - QU3ST is one of the most successful Axie Infinity eSports teams. They are also answering difficult questions for Sky Mavis using ML, data analysis and community engagement.
 - [Swift Studios](http://www.solomid.net/) - Team SoloMid's Web3 Gaming Studio.
