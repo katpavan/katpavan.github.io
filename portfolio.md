@@ -15,7 +15,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 - [Legends of Venari](https://legendsofvenari.com/) - Merging NFTs with a creature collection RPG.
 - [QU3ST](https://qu3st.substack.com/p/qu3st-joins-the-ronin-network-as/) - QU3ST is one of the most successful Axie Infinity eSports teams. They are also answering difficult questions for Sky Mavis using ML, data analysis and community engagement.
 - [Swift Studios](http://www.solomid.net/) - Team SoloMid's Web3 Gaming Studio.
-- [Gaggle Studios](https://gaggle.fun/) - Building gaming worlds and social bonds around social experiences.
+- [Gaggle Studios](https://gaggle.fun/) - Building gaming worlds and social bonds around social experiences. Goose Goose Duck is one of their games.
 
 ## Healthcare
 
