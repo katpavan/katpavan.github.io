@@ -13,7 +13,7 @@ Nurturing growth, seeing someone's career go in a positive direction and knowing
 - Jan 2015 - Dec '15 - Barnard College - Athena Center For Leadership (Front End Dev) - NY, NY
 
 <img src="https://github.com/katpavan/katpavan.github.io/assets/45500874/f19e7c02-5650-4fdf-939e-9774f04304db" width="290" height="92" />
-<img src="https://github.com/katpavan/katpavan.github.io/assets/45500874/0f56912a-85a4-4529-bf0e-31ed6ba2de11" width="290" height="79" />
+<img src="https://github.com/katpavan/katpavan.github.io/assets/45500874/21b59956-efb3-412d-a2ff-5164c0e2ee7a" width="290" height="290" />
 <img src="https://github.com/katpavan/katpavan.github.io/assets/45500874/15b0ef09-3da1-4872-8dd3-797a7c03e249" width="290" height="100" />
 <img src="https://github.com/katpavan/katpavan.github.io/assets/45500874/c51f98e4-7c14-4bb1-adfa-005f9d2cde52" width="290" height="290" />
 
