@@ -16,5 +16,5 @@ Nurturing growth, seeing someone's career go in a positive direction and knowing
 ![image](https://github.com/katpavan/katpavan.github.io/assets/45500874/21b59956-efb3-412d-a2ff-5164c0e2ee7a)
 ![image](https://github.com/katpavan/katpavan.github.io/assets/45500874/0f56912a-85a4-4529-bf0e-31ed6ba2de11)
 ![image](https://github.com/katpavan/katpavan.github.io/assets/45500874/618a6b88-2785-46a9-94ba-91a7c21d44e9)
-![image](https://github.com/katpavan/katpavan.github.io/assets/45500874/c51f98e4-7c14-4bb1-adfa-005f9d2cde52)
+![image](https://github.com/katpavan/katpavan.github.io/assets/45500874/c51f98e4-7c14-4bb1-adfa-005f9d2cde52 =290x290)
 
