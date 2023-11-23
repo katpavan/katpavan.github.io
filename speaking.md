@@ -6,11 +6,14 @@ permalink: /speaking/
 
 These are talks I've given.
 
+## Animoca Powered EdTech Accelerator (remote) - Scaling Instructor Quality - 2023
+* https://www.linkedin.com/pulse/newcampus-launches-10m-accelerator-animoca-open-campus-will-fan-/
+
 ## Santa Rosa Junior College (remote) - 2022 - intro to crypto gaming
 
 ## Speaker @ Nasdaq Entrepreneurial Center (remote) - 2021 - Product Market Fit
-https://youtu.be/PPjmspFYYZo?t=231
-https://youtu.be/58u5dlRB6Ss?t=257
+* https://youtu.be/PPjmspFYYZo?t=231
+* https://youtu.be/58u5dlRB6Ss?t=257
 
 ## Panelist @ State of Edtech Investor Panel (remote) - 2020 - edtech
 
@@ -34,10 +37,10 @@ https://youtu.be/58u5dlRB6Ss?t=257
 * Spoke along with Academics from Carnegie Mellon University and Stanford
 
 ## Speaker @ FINTECH SILICON VALLEY (SF, CA) - Walking through an ERC20 Contract - 2018
-* https://www.fintechsv.com/walking-through-an-ecr20-contract/
+* https://www.youtube.com/watch?v=0sTD-gy5gzM
 
 ## Speaker @ FINTECH SILICON VALLEY (Palo Alto, CA) - Intro to Ethereum Development - 2018
-* https://www.fintechsv.com/introduction-to-ethereum-june-20-2018/
+* https://www.youtube.com/watch?v=kF3l5hRyaus&t=112s
 
 ## Speaker @ NJ Tech Meetup (Hoboken, NJ) - 2011
 * https://www.meetup.com/njtech/events/25729671
