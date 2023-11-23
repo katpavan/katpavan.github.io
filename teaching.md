@@ -12,7 +12,7 @@ Nurturing growth, seeing someone's career go in a positive direction and knowing
 - May 2015 - Aug '15 - General Assembly (Web Dev) - NY, NY
 - Jan 2015 - Dec '15 - Barnard College - Athena Center For Leadership (Front End Dev) - NY, NY
 
-![image](https://github.com/katpavan/katpavan.github.io/assets/45500874/c4ce1ec7-54b4-40d4-8259-e82f82199b13)
+<img src="https://github.com/katpavan/katpavan.github.io/assets/45500874/f19e7c02-5650-4fdf-939e-9774f04304db" width="290" height="79" />
 ![image](https://github.com/katpavan/katpavan.github.io/assets/45500874/21b59956-efb3-412d-a2ff-5164c0e2ee7a)
 <img src="https://github.com/katpavan/katpavan.github.io/assets/45500874/0f56912a-85a4-4529-bf0e-31ed6ba2de11" width="290" height="79" />
 <img src="https://github.com/katpavan/katpavan.github.io/assets/45500874/15b0ef09-3da1-4872-8dd3-797a7c03e249" width="290" height="100" />
