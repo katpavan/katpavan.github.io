@@ -11,15 +11,13 @@ These are companies I've made angel investments in. I've put $1M of my own money
 - [Hey Mint](https://www.heymint.xyz/) - Powerful NFT Creator tools. Created by [Curious Addys' Trading Club](https://curiousaddys.com/).
 - [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains. 
 - [Nest Wallet](https://nestwallet.xyz/) - Multi Sig wallet made easy. Nest used to be a Web3 Event Management Platform. And before that they were the largest two-sided network connecting all web3 gamers and guilds.
-- [QU3ST](https://qu3st.substack.com/p/qu3st-joins-the-ronin-network-as/) - QU3ST started out consulting Sky Mavis using ML, data analysis and community engagement, and now they're building an analytics platform with their learnings. QU3ST also has runs the most successful Axie Infinity eSports teams.
+- [Moku](https://twitter.com/akhljndl/status/1738932425965932744) - web3 community management and growth platform. 
 
 ## Gaming
-- [Gaggle Studios](https://gaggle.fun/) - Goose Goose Duck.
 - [Legends of Venari](https://legendsofvenari.com/) - Merging NFTs with a creature collection RPG.
-- [Swift Studios](http://www.solomid.net/) - Team SoloMid's Web3 Gaming Studio.
 
 ## AI
-- [Aethero](https://aethero.com/) - Aethero enables orbital satellites to process space data in real-time using edge AI without the cost or latency of sending it back to Earth.
+- [Aethero](https://aethero.com/) - Aethero Space lets spacecraft process data in real-time with onboard edge compute.
 
 ## Healthcare
 
