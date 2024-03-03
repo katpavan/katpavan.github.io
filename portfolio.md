@@ -12,12 +12,10 @@ These are companies I've made angel investments in. I've put $1M of my own money
 - [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains. 
 - [Nest Wallet](https://nestwallet.xyz/) - Multi Sig wallet made easy. Nest used to be a Web3 Event Management Platform. And before that they were the largest two-sided network connecting all web3 gamers and guilds.
 - [Moku](https://twitter.com/akhljndl/status/1738932425965932744) - web3 community management and growth platform. 
-
-## Gaming
 - [Legends of Venari](https://legendsofvenari.com/) - Merging NFTs with a creature collection RPG.
 
 ## AI
-- [Aethero](https://aethero.com/) - Aethero builds space computers for satellites to instantaneously process data on the edge.
+- [Aethero](https://aethero.com/) - Aethero builds radiation-hardened computers that let satellites process their data in orbit.
 
 ## Healthcare
 
