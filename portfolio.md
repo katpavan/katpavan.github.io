@@ -24,7 +24,8 @@ These are companies I've made angel investments in. I've put $1M of my own money
 ## Education
 
 - [New Campus](https://newcampus.co) - Leadership from Netflix, Google, Microsoft, Airbnb, Pinterest, Spotify teach classes online. Classes are highly interactive and focus on topics such as first-time management essentials and creating high performance teams.
-- [KidzToPros](https://www.kidztopros.com) - KidzToPros offer home learning pods where students can learn in small group sizes in a safe environment. They also offer after-school programs, summer camps. 
+- [BAM!](https://www.brains-and-motion.com/) - Brains & Motion Education (BAM!) is a tech-enabled company unlocking the potential of students year-round through summer camp, after-school, and structured recess enrichment programs. To date, BAM has served 1,150+ schools and 93,000 students with 4,600 programs delivered.
+
 
 ## E-commerce
 
