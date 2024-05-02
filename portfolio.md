@@ -15,7 +15,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 - [Legends of Venari](https://legendsofvenari.com/) - Merging NFTs with a creature collection RPG.
 
 ## AI
-- [Aethero](https://aethero.com/) - Aethero builds radiation-hardened computers that let satellites process their data in orbit.
+- [Aethero](https://aethero.com/) - Aethero builds space-rated computers that let satellites process data in orbit.
 
 ## Healthcare
 
