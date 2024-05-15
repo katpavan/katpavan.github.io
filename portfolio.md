@@ -8,11 +8,11 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## Web3
 
-- [Hey Mint](https://www.heymint.xyz/) - Powerful NFT Creator tools. Created by [Curious Addys' Trading Club](https://curiousaddys.com/).
-- [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains. 
-- [Nest Wallet](https://nestwallet.xyz/) - Multi Sig wallet made easy. Nest used to be a Web3 Event Management Platform. And before that they were the largest two-sided network connecting all web3 gamers and guilds.
-- [Moku](https://twitter.com/akhljndl/status/1738932425965932744) - web3 community management and growth platform. 
-- [Legends of Venari](https://legendsofvenari.com/) - Merging NFTs with a creature collection RPG.
+- [Hey Mint](https://www.heymint.xyz/) - Powerful NFT Creator tools. Created by [Curious Addys' Trading Club](https://curiousaddys.com/)
+- [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains 
+- [Nest Wallet](https://nestwallet.xyz/) - A Wallet Engineered for Traders
+- [Moku](https://twitter.com/akhljndl/status/1738932425965932744) - The marketing launch platform of Ronin
+- [Legends of Venari](https://legendsofvenari.com/) - Web3 Pal World
 
 ## AI
 - [Aethero](https://aethero.com/) - Aethero builds space-rated computers that let satellites process data in orbit.
