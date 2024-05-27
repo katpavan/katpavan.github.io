@@ -19,7 +19,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## Healthcare
 
-- [Care Connection Health](https://www.careconnectionhealth.com) - Helping medical practices increase their revenue via medicare reimbursment for offering preventative care to their patients. 
+- [Care Connection Health](https://www.ccnhealth.com/) - CCN's HIPAA compliant web platform and cellular devices make it easier than ever to succeed with Remote Patient Monitoring. 
 
 ## Education
 
