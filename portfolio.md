@@ -30,7 +30,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## E-commerce
 
-- [Araavly](#) - B2B cross-border eCommerce is broken & unorganized for India-to-US corridors, Araavly is fixing this. Previously was [Baaz](#) doing live commerce infrastructure for e-commerce stores. Stores revealed exclusive collections with the help of an influencer or themselves via live shopping shows to a large audience.
+- [Araavly](#) - Currently experimenting with new ideas. Previously was doing live commerce infra. Stores revealed exclusive collections with the help of an influencer or themselves via live shopping shows to a large audience.
 
 
 ## Plant based
