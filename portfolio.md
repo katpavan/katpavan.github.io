@@ -12,7 +12,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 - [Hey Mint](https://www.heymint.xyz/) - Powerful NFT Creator tools. Created by [Curious Addys' Trading Club](https://curiousaddys.com/)
 - [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains 
 - [Nest Wallet](https://nestwallet.xyz/) - A Wallet Engineered for Traders
-- [Moku](https://twitter.com/akhljndl/status/1738932425965932744) - The marketing launch platform of Ronin
+- [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - The marketing launch platform of Ronin
 - [Legends of Venari](https://legendsofvenari.com/) - Web3 Pal World
 
 ## AI
