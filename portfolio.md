@@ -8,7 +8,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## Web3
 
-- [B3](https://x.com/b3dotfun/) - layer 3 base chain by ex base team
+- [B3](https://x.com/b3dotfun/) - gaming blockchain on base by ex base team
 - [Hey Mint](https://www.heymint.xyz/) - Powerful NFT Creator tools. Created by [Curious Addys' Trading Club](https://curiousaddys.com/)
 - [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - The marketing launch platform of Ronin
 - [Legends of Venari](https://legendsofvenari.com/) - Web3 Pal World
