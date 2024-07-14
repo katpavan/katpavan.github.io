@@ -31,7 +31,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 - [Fabalish](https://www.fabalish.com) - plant-based & allergen free falafel and aquafaba sauces. No meat, dairy, eggs, nuts, soy, gluten, sugar or anything artificial in their foods.
 - [Renegade Foods](https://renegadefoods.com/) - premium plant based charcuterie. Applewood slow-smoked meats made entirely from plants!
-- [The Plant Era](https://theplantera.com) - TPE creates plant based protein powder designed for performance. Used by pro athletes like the captain of Arsenal football club, Pierre-Emerick Aubameyang. It contains 50% of your B12. No artificial sweeteners, soy, dairy, gluten or sugar. Comes in Dark Chocolate and Strawberry Basil.
+- [99foods](https://99foods.io/) - TPE creates plant based protein powder designed for performance. Used by pro athletes like the captain of Arsenal football club, Pierre-Emerick Aubameyang. It contains 50% of your B12. No artificial sweeteners, soy, dairy, gluten or sugar. Comes in Dark Chocolate and Strawberry Basil.
 
 ## Pivoting
 
