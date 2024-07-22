@@ -9,7 +9,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 ## Web3
 
 - [B3](https://x.com/b3dotfun/) - gaming blockchain on base by ex base team -> [VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/)
-- [Hey Mint](https://www.heymint.xyz/) - Powerful Web3 Creator tools
+- [Hey Mint](https://www.heymint.xyz/) - Powerful Web3 Creator tools -> [CoinDesk](https://www.coindesk.com/web3/2023/05/15/web3-education-leaders-team-up-to-roll-out-beginner-nft-platform-heymint/)
 - [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - The marketing launch platform of Ronin
 - [Legends of Venari](https://legendsofvenari.com/) - Web3 Pal World
 - [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains 
