@@ -8,7 +8,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## Web3
 
-- [B3](https://x.com/b3dotfun/) - gaming blockchain on base by ex base team
+- [B3](https://x.com/b3dotfun/) - gaming blockchain on base by ex base team -> [VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/)
 - [Hey Mint](https://www.heymint.xyz/) - Powerful Web3 Creator tools
 - [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - The marketing launch platform of Ronin
 - [Legends of Venari](https://legendsofvenari.com/) - Web3 Pal World
@@ -16,7 +16,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 - [Nest Wallet](https://nestwallet.xyz/) - A Wallet Engineered for Traders
 
 ## Space
-- [Aethero](https://aethero.com/) - Aethero builds space-rated computers that let satellites process data in orbit.
+- [Aethero](https://aethero.com/) - Aethero builds space-rated computers that let satellites process data in orbit -> [TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/)
 
 ## Healthcare
 
@@ -24,7 +24,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## Education
 
-- [New Campus](https://newcampus.co) - Leadership from Netflix, Google, Microsoft, Airbnb, Pinterest, Spotify teach classes online. Classes are highly interactive and focus on topics such as first-time management essentials and creating high performance teams.
+- [New Campus](https://newcampus.co) - Leadership from Netflix, Google, Microsoft, Airbnb, Pinterest, Spotify teach classes online. Classes are highly interactive and focus on topics such as first-time management essentials and creating high performance teams -> [TechCrunch](https://techcrunch.com/2021/07/20/newcampus-wants-to-train-the-first-time-managers-within-southeast-asias-tech-giants/)
 - [BAM!](https://www.brains-and-motion.com/) - Brains & Motion Education (BAM!) is a tech-enabled company unlocking the potential of students year-round through summer camp, after-school, and structured recess enrichment programs. To date, BAM has served 1,150+ schools and 93,000 students with 4,600 programs delivered.
 
 ## Plant based
