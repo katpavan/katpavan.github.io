@@ -8,15 +8,15 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## Web3
 
-- [B3](https://x.com/b3dotfun/) - gaming blockchain on base by ex base team -> [VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/)
-- [Hey Mint](https://www.heymint.xyz/) - Powerful Web3 Creator tools -> [CoinDesk](https://www.coindesk.com/web3/2023/05/15/web3-education-leaders-team-up-to-roll-out-beginner-nft-platform-heymint/)
+- [B3](https://x.com/b3dotfun/) - [VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/) - gaming blockchain on base by ex base team
+- [Hey Mint](https://www.heymint.xyz/) - [CoinDesk](https://www.coindesk.com/web3/2023/05/15/web3-education-leaders-team-up-to-roll-out-beginner-nft-platform-heymint/) - Powerful Web3 Creator tools
 - [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - The marketing launch platform of Ronin
-- [Legends of Venari](https://legendsofvenari.com/) - Web3 Pal World
-- [Cryptoslam](https://cryptoslam.io/) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains 
+- [Legends of Venari](https://legendsofvenari.com/) - [TechCrunch](https://techcrunch.com/2022/11/09/say-hello-to-the-newest-crypto-startups-from-web3-accelerator-alliance-daos-demo-day/) - Web3 Pal World
+- [Cryptoslam](https://cryptoslam.io/) - [Decrypt](https://decrypt.co/211547/solana-nft-sales-skyrocket-ethereum-monthly-volume) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains 
 - [Nest Wallet](https://nestwallet.xyz/) - A Wallet Engineered for Traders
 
 ## Space
-- [Aethero](https://aethero.com/) - Aethero builds space-rated computers that let satellites process data in orbit -> [TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/)
+- [Aethero](https://aethero.com/) - [TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/) - Aethero builds space-rated computers that let satellites process data in orbit
 
 ## Healthcare
 
