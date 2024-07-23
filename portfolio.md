@@ -13,7 +13,7 @@ These are companies I've made angel investments in. I've put $1M of my own money
 - [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - The marketing launch platform of Ronin
 - [Legends of Venari](https://legendsofvenari.com/) - [TechCrunch](https://techcrunch.com/2022/11/09/say-hello-to-the-newest-crypto-startups-from-web3-accelerator-alliance-daos-demo-day/) - Web3 Pal World
 - [Cryptoslam](https://cryptoslam.io/) - [Decrypt](https://decrypt.co/211547/solana-nft-sales-skyrocket-ethereum-monthly-volume) - CryptoSlam is the leading NFT aggregator, collecting and analyzing data for millions of NFTs across 15+ Blockchains 
-- [Nest Wallet](https://nestwallet.xyz/) - A Wallet Engineered for Traders
+- [Nest Wallet](https://nestwallet.xyz/) - [Safe Blog](https://safe.global/blog/safe-case-2-digital-ownership-in-your-pocket) - A Wallet Engineered for Traders
 
 ## Space
 - [Aethero](https://aethero.com/) - [TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/) - Aethero builds space-rated computers that let satellites process data in orbit
@@ -24,13 +24,13 @@ These are companies I've made angel investments in. I've put $1M of my own money
 
 ## Education
 
-- [New Campus](https://newcampus.co) - Leadership from Netflix, Google, Microsoft, Airbnb, Pinterest, Spotify teach classes online. Classes are highly interactive and focus on topics such as first-time management essentials and creating high performance teams -> [TechCrunch](https://techcrunch.com/2021/07/20/newcampus-wants-to-train-the-first-time-managers-within-southeast-asias-tech-giants/)
+- [New Campus](https://newcampus.co) - [TechCrunch](https://techcrunch.com/2021/07/20/newcampus-wants-to-train-the-first-time-managers-within-southeast-asias-tech-giants/) - Leadership from Netflix, Google, Microsoft, Airbnb, Pinterest, Spotify teach classes online. Classes are highly interactive and focus on topics such as first-time management essentials and creating high performance teams
 - [BAM!](https://www.brains-and-motion.com/) - Brains & Motion Education (BAM!) is a tech-enabled company unlocking the potential of students year-round through summer camp, after-school, and structured recess enrichment programs. To date, BAM has served 1,150+ schools and 93,000 students with 4,600 programs delivered.
 
 ## Plant based
 
-- [Fabalish](https://www.fabalish.com) - plant-based & allergen free falafel and aquafaba sauces. No meat, dairy, eggs, nuts, soy, gluten, sugar or anything artificial in their foods.
-- [Renegade Foods](https://renegadefoods.com/) - premium plant based charcuterie. Applewood slow-smoked meats made entirely from plants!
+- [Fabalish](https://www.fabalish.com) - [vegconomist](https://vegconomist.com/food-and-beverage/egg-alternatives/crafty-counter-fabalish-first-ever-vegan-deviled-eggs/) - plant-based & allergen free falafel and aquafaba sauces. No meat, dairy, eggs, nuts, soy, gluten, sugar or anything artificial in their foods.
+- [Renegade Foods](https://renegadefoods.com/) - [vegconomist](https://vegconomist.com/company-news/renegade-foods-triples-production-capabilities/) - premium plant based charcuterie. Applewood slow-smoked meats made entirely from plants!
 - [99foods](https://99foods.io/) - plant based protein powder used by pro athletes like the captain of Arsenal football club, Pierre-Emerick Aubameyang.
 
 ## Pivoting
