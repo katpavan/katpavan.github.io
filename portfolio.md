@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-These are companies I've made angel investments in. I've put $1M of my own money into these companies.
+I wrote checks to these companies.
 
 ## Web3
 
