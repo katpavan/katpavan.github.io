@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I write checks for people to build companies and to save animals.
+Hey, I'm Pavan. I write checks for people to build companies and to save animals.
 
 Here's my portfolio:
 
