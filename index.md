@@ -11,7 +11,7 @@ I donate monthly to:
 
 - [Heartwood Haven](https://heartwoodhaven.org/) - ([Rescued 60 Roosters](https://www.yelmonline.com/stories/roy-animal-sanctuary-takes-in-nearly-60-roosters-rescue-from-cockfighting,339873) - [Rescued 10 Pigs](https://plantbasednews.org/culture/ethics/ten-pigs-rescued-animal-testing/)) Heartwood Haven fights against the disastrous effects of animal cruelty through rescue, education, and sanctuary to promote a more compassionate world for animals and humans.
 
-- [DXE](https://www.directactioneverywhere.com/) - Direct Action Everywhere is a global network of activists working to achieve revolutionary social and political change for animals in one generation.
+- [DXE](https://www.directactioneverywhere.com/) - ([https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens](Vox)) Direct Action Everywhere is a global network of activists working to achieve revolutionary social and political change for animals in one generation.
 
 Here's my portfolio:
 
