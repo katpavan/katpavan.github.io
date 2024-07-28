@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Web3
 
-I run Yomi Games, a web3 game studio. We've done a [lot](https://yomigames.medium.com/), but it's nothing compared to what we're doing next.
+I run Yomi Games, a web3 game studio. We've done a [lot](https://yomigames.medium.com/), and 2024 is going to be a wild year with our next game, Snowcrest Peak.
 
 Before that, I was a Blockchain Solutions Architect at Consensys. Consensys was founded by Joseph Lubin, co-founder of Ethereum. MetaMask was made at Consensys, the first ever wallet for decentralized applications.
 
