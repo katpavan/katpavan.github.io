@@ -6,7 +6,7 @@ layout: home
 title: Hey I'm Pavan
 ---
 
-Hey, I'm Pavan. I write checks, build companies and donate to animal non profits. 
+I write checks, build companies and donate to animal non profits. 
 
 # My Portfolio
 
