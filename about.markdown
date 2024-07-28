@@ -12,7 +12,7 @@ Before that, I was a Blockchain Solutions Architect at Consensys. Consensys was 
 
 ## Trilogy
 
-I was an early stage C-level executive at Trilogy Education Services. We attained Product Market Fit fairly quickly and were acquired for $750M in mid 2019.
+I was an early stage C-level executive at Trilogy Education Services. We attained Product Market Fit and were acquired for $750M in mid 2019.
 
 ## Angel Investing 
 
