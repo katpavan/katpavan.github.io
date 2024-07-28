@@ -3,12 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Hey I'm Pavan
 ---
 
-I write checks, build companies and donate to animal non profits. 
+I write checks for people to build companies and to save animals.
 
-# My Portfolio
+Here's my portfolio:
 
 ## Web3
 
