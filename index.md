@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hey, I'm Pavan. I write checks so people can build businesses and save animals. Read more [here](/about/).
+Hey, I'm Pavan. I write checks so people can save animals and build businesses. Read more [here](/about/).
 
 **I donate monthly to:**
 
@@ -25,7 +25,7 @@ Hey, I'm Pavan. I write checks so people can build businesses and save animals. 
 - [Nest Wallet](https://nestwallet.xyz/) - ([Safe Blog](https://safe.global/blog/safe-case-2-digital-ownership-in-your-pocket)) - A Wallet Engineered for Traders
 
 ## Space
-- [Aethero](https://aethero.com/) - ([TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/)) - Aethero builds space-rated computers that let satellites process data in orbit
+- [Aethero](https://aethero.com/) - ([TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/)) - Aethero is building a network of computers and relays to let satellites process data in space, achieve 24/7 connectivity with Earth, and operate autonomously without human oversight.
 
 ## Healthcare
 
