@@ -5,13 +5,19 @@
 layout: home
 ---
 
-Hey, I'm Pavan. I write checks for people to build companies and to save animals.
+Hey, I'm Pavan. I write checks so people can save animals and build businesses. Read more [here](/about/).
 
-Here's my portfolio:
+**I donate monthly to:**
+
+- [Heartwood Haven](https://heartwoodhaven.org/) - ([Rescued 60 Roosters](https://www.yelmonline.com/stories/roy-animal-sanctuary-takes-in-nearly-60-roosters-rescue-from-cockfighting,339873), [Rescued 10 Pigs](https://plantbasednews.org/culture/ethics/ten-pigs-rescued-animal-testing/)) Heartwood Haven fights against the disastrous effects of animal cruelty through rescue, education, and sanctuary to promote a more compassionate world for animals and humans.
+
+- [DXE](https://www.directactioneverywhere.com/) - ([Vox](https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens)) Direct Action Everywhere is a global network of activists working to achieve revolutionary social and political change for animals in one generation.
+
+**Here's my portfolio:**
 
 ## Web3
 
-- [B3](https://x.com/b3dotfun/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/) - [Twitter trending](https://x.com/i/trending/1815454338413982133)) - gaming blockchain on base by ex base team
+- [B3](https://x.com/b3dotfun/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - gaming blockchain on base by ex base team
 - [Hey Mint](https://www.heymint.xyz/) - ([CoinDesk](https://www.coindesk.com/web3/2023/05/15/web3-education-leaders-team-up-to-roll-out-beginner-nft-platform-heymint/)) - Powerful Web3 Creator tools
 - [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - ([Sky Mavis Twitter](https://x.com/SkyMavisHQ/status/1813199943374356814)) - The marketing launch platform of Ronin
 - [Legends of Venari](https://legendsofvenari.com/) - ([TechCrunch](https://techcrunch.com/2022/11/09/say-hello-to-the-newest-crypto-startups-from-web3-accelerator-alliance-daos-demo-day/)) - Web3 Pal World
@@ -19,7 +25,7 @@ Here's my portfolio:
 - [Nest Wallet](https://nestwallet.xyz/) - ([Safe Blog](https://safe.global/blog/safe-case-2-digital-ownership-in-your-pocket)) - A Wallet Engineered for Traders
 
 ## Space
-- [Aethero](https://aethero.com/) - ([TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/)) - Aethero builds space-rated computers that let satellites process data in orbit
+- [Aethero](https://aethero.com/) - ([TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/), [Space.com](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)) - Aethero is building a network of computers and relays to let satellites process data in space, achieve 24/7 connectivity with Earth, and operate autonomously without human oversight.
 
 ## Healthcare
 
