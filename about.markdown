@@ -18,6 +18,16 @@ I was an early stage C-level executive at Trilogy Education Services. We attaine
 
 Since 2019, I've invested $1M of my own money into startups.
 
+## Activism
+
+I was a volunteer lobbyist for the 2019 Calfironia Fur Ban Law (AB-44). My team educated Senators and rallied the community. We were up against lobbyists from private companies who make tens of millions in revenue a year from selling fur. 
+
+The law passed in 2019, sale of fur and fur farming are both banned in California. 
+
+Fur farms electrocute animals (mink, foxes, etc), put them in gas chambers and then skin them, sometimes alive. Wild animals that were meant to be free, live in cages their entire lives and are driven to madness. These poor animals chew off their own body parts.
+
+Fur in america sometimes contain dog and cat fur imported from overseas. There's no way to stop this unless you ban the sale and manufacturing of it altogether.
+
 ## Teaching
 
 Teaching gives me purpose.
