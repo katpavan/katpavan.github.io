@@ -6,7 +6,7 @@ permalink: /about/
 
 ## AI Web3
 
-I work on [Manami.ai](https://twitter.com/manamidotai). She's an AI that hosts, judges, and even plays AI-powered games on Twitter and the web. 
+I work on [Manami.ai](https://twitter.com/manamidotai). She's an AI that hosts, judges, and plays AI-powered games on Twitter and the web. 
  
 Before that, I was a Blockchain Solutions Architect at Consensys. Consensys was founded by Joseph Lubin, co-founder of Ethereum. MetaMask was made at Consensys, the first ever wallet for decentralized applications.
 
