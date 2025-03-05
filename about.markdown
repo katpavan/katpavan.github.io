@@ -6,7 +6,7 @@ permalink: /about/
 
 ## AI Web3
 
-I work on [Manami.ai](https://twitter.com/manamidotai). She's an AI that hosts, judges, and plays AI-powered games on Twitter and the web. 
+I work on [Manami.ai](https://twitter.com/manamidotai). Manami AI is a deep research analyst for your crypto portfolio. Receive highly relevant insights and custom recommendations daily. Raised $2m seed round in 2022 (SFermion, IVC, cultur3 capital, Maveron, Taureon, Kevin Lin -Twitch, Dan Dinh - TSM, Alex Chung - Giphy, Thomas Vu - Riot Games, Dan Sommer -Trilogy Education) 
  
 Before that, I was a Blockchain Solutions Architect at Consensys. Consensys was founded by Joseph Lubin, co-founder of Ethereum. MetaMask was made at Consensys, the first ever wallet for decentralized applications.
 
