@@ -20,9 +20,9 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 - [B3](https://x.com/b3dotfun/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - gaming blockchain on base by ex base team
 - [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - ([Sky Mavis Twitter](https://x.com/SkyMavisHQ/status/1813199943374356814)) - The marketing launch platform of Ronin
 - [Nest Wallet](https://nestwallet.xyz/) - ([Safe Blog](https://safe.global/blog/safe-case-2-digital-ownership-in-your-pocket)) - A Wallet Engineered for Mobile Traders
+- [Legends of Venari](https://legendsofvenari.com/) - ([TechCrunch](https://techcrunch.com/2022/11/09/say-hello-to-the-newest-crypto-startups-from-web3-accelerator-alliance-daos-demo-day/)) - Web3 Pal World
 
 <!---
-- [Legends of Venari](https://legendsofvenari.com/) - ([TechCrunch](https://techcrunch.com/2022/11/09/say-hello-to-the-newest-crypto-startups-from-web3-accelerator-alliance-daos-demo-day/)) - Web3 Pal World
 
 - [Hey Mint](https://www.heymint.xyz/) - ([CoinDesk](https://www.coindesk.com/web3/2023/05/15/web3-education-leaders-team-up-to-roll-out-beginner-nft-platform-heymint/)) - Powerful Web3 Creator tools
 
