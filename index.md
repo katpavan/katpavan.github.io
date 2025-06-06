@@ -34,7 +34,11 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 
 ## Healthcare
 
-- [Care Connection Health](https://www.ccnhealth.com/) - CCN's HIPAA compliant web platform and cellular devices make it easier than ever to succeed with Remote Patient Monitoring. 
+- [Care Connection Health](https://www.ccnhealth.com/) - CCN's HIPAA compliant web platform and cellular devices make it easier than ever to succeed with Remote Patient Monitoring.
+
+## Social 
+
+- [taar](#) - chat for events
 
 ## Education
 
@@ -46,7 +50,3 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 - [Fabalish](https://www.fabalish.com) - ([vegconomist](https://vegconomist.com/food-and-beverage/egg-alternatives/crafty-counter-fabalish-first-ever-vegan-deviled-eggs/)) - plant-based & allergen free falafel and aquafaba sauces. No meat, dairy, eggs, nuts, soy, gluten, sugar or anything artificial in their foods.
 - [Renegade Foods](https://renegadefoods.com/) - ([vegconomist](https://vegconomist.com/company-news/renegade-foods-triples-production-capabilities/)) - premium plant based charcuterie. Applewood slow-smoked meats made entirely from plants!
 - [99foods](https://99foods.io/) - Cloud protein smoothie restaurant in London.
-
-## Social 
-
-- taar - event based chat app in India
