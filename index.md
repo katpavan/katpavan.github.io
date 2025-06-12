@@ -30,7 +30,7 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 -->
 
 ## Space
-- [Aethero](https://aethero.com/) - [Payload](https://payloadspace.com/aethero-raises-8-4m-for-space-computers/), ([TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/), [Space.com](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)) - Aethero is building a network of space-based computers to process and share data between satellites (an orbital AWS).
+- [Aethero](https://aethero.com/) - ([Payload](https://payloadspace.com/aethero-raises-8-4m-for-space-computers/), [TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/), [Space.com](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)) - Aethero is building a network of space-based computers to process and share data between satellites (an orbital AWS).
 
 ## Healthcare
 
