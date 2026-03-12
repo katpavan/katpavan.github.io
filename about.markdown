@@ -4,11 +4,17 @@ title: About
 permalink: /about/
 ---
 
+## Mori Finance
+
+I'm working on bringing Mori Finance to production (currently testnet). Mori is a DeFi volatility yield protocol bringing covered calls to Solana for the first time. It enables high-yield generation, with minimum risk, accessible to everyone—enabling any user to earn upfront premium yield by setting a price they're willing to sell higher.
+
+<!--
 ## AI Web3
 
 I work on [Manami.ai](https://twitter.com/manamidotai). Manami AI is a deep research analyst for your crypto portfolio. Receive highly relevant insights and custom recommendations daily. Raised $2m seed round in 2022 (SFermion, IVC, cultur3 capital, Maveron, Taureon, Kevin Lin -Twitch, Dan Dinh - TSM, Alex Chung - Giphy, Thomas Vu - Riot Games, Dan Sommer -Trilogy Education) 
  
 Before that, I was a Blockchain Solutions Architect at Consensys. Consensys was founded by Joseph Lubin, co-founder of Ethereum. MetaMask was made at Consensys, the first ever wallet for decentralized applications.
+-->
 
 ## Trilogy
 
