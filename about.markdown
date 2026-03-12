@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Mori Finance
 
-I'm working on bringing Mori Finance to production (currently testnet). Mori is a DeFi volatility yield protocol bringing covered calls to Solana for the first time. It enables high-yield generation, with minimum risk, accessible to everyone—enabling any user to earn upfront premium yield by setting a price they're willing to sell higher.
+My current focus is bringing [Mori Finance](https://mori.finance) to production (currently testnet). Mori is a DeFi volatility yield protocol bringing covered calls to Solana for the first time. It enables high-yield generation, with minimum risk, accessible to everyone—enabling any user to earn upfront premium yield by setting a price they're willing to sell higher.
 
 <!--
 ## AI Web3
