@@ -17,7 +17,8 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 
 ## Web3
 
-- [B3](https://x.com/b3dotfun/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - gaming blockchain on base by ex base team
+- [B3](https://b3os.org/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - The Onchain Engine for Agentic AI
+Build onchain apps and automations that connect wallets, smart contracts, and 2,000+ tools you already use
 - [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - ([Sky Mavis Twitter](https://x.com/SkyMavisHQ/status/1813199943374356814)) - The marketing launch platform of Ronin
 
 <!---
