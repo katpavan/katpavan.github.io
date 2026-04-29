@@ -26,7 +26,7 @@ Since 2019, I've invested $1M of my own money into startups.
 
 ## Activism
 
-I was a volunteer lobbyist for the 2019 Calfironia Fur Ban Law (AB-44). My team educated Senators and rallied the community. We were up against lobbyists from private companies who make tens of millions in revenue a year from selling fur. 
+I was a volunteer lobbyist for the 2019 California Fur Ban Law (AB-44). My team educated Senators and rallied the community. We were up against lobbyists from private companies who make tens of millions in revenue a year from selling fur. 
 
 The law passed in 2019, sale of fur and fur farming are both banned in California. 
 
