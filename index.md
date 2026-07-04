@@ -35,6 +35,10 @@ Build onchain apps and automations that connect wallets, smart contracts, and 2,
 - [99foods](https://99foods.io/) - Cloud protein smoothie restaurant in London.
 -->
 
+## AI
+
+- [Granite](https://granitestrata.com/en) - Transaction infrastructure for enterprise commercial real estate
+
 ## Space
 - [Aethero](https://aethero.com/) - ([Payload](https://payloadspace.com/aethero-raises-8-4m-for-space-computers/), [TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/), [Space.com](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)) - Aethero is building a network of space-based computers to process and share data between satellites (an orbital AWS).
 
@@ -44,8 +48,9 @@ Build onchain apps and automations that connect wallets, smart contracts, and 2,
 
 ## Education
 
-- [New Campus](https://www.opencampus.xyz/) - ([TechCrunch](https://techcrunch.com/2021/07/20/newcampus-wants-to-train-the-first-time-managers-within-southeast-asias-tech-giants/)) - Leadership from Netflix, Google, Microsoft, Airbnb, Pinterest, Spotify teach classes online. Classes are highly interactive and focus on topics such as first-time management essentials and creating high performance teams
 - [BAM!](https://www.brains-and-motion.com/) - Brains & Motion Education (BAM!) is a tech-enabled company unlocking the potential of students year-round through summer camp, after-school, and structured recess enrichment programs. To date, BAM has served 1,150+ schools and 93,000 students with 4,600 programs delivered.
+- [New Campus](https://www.opencampus.xyz/) - ([TechCrunch](https://techcrunch.com/2021/07/20/newcampus-wants-to-train-the-first-time-managers-within-southeast-asias-tech-giants/)) - Leadership from Netflix, Google, Microsoft, Airbnb, Pinterest, Spotify teach classes online. Classes are highly interactive and focus on topics such as first-time management essentials and creating high performance teams
+
 
 ## Plant based
 
