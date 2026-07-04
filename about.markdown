@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Mori Finance
 
-My current focus is bringing [Mori Finance](https://mori.finance) to production (currently testnet). Mori is a DeFi volatility yield protocol bringing covered calls to Solana for the first time. It enables high-yield generation, with minimum risk, accessible to everyone—enabling any user to earn upfront premium yield by setting a price they're willing to sell higher.
+I founded [Mori Finance](https://mori.finance) in 2026. Mori allows for covered calls to be sold natively on the Solana blockchain to market makers. Users choose their token, choose a date and a price to sell higher and collect USDC upfront.
 
 <!--
 ## AI Web3
@@ -22,7 +22,7 @@ I was an early stage C-level executive at Trilogy Education Services. We attaine
 
 ## Angel Investing 
 
-Since 2019, I've invested $1M of my own money into startups.
+Since 2019, I've invested $1M into startups.
 
 ## Activism
 
