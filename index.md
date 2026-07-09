@@ -15,12 +15,6 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 
 **Here's my portfolio:**
 
-## Web3
-
-- [B3](https://b3os.org/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - The Onchain Engine for Agentic AI
-Build onchain apps and automations that connect wallets, smart contracts, and 2,000+ tools you already use
-- [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - ([Sky Mavis Twitter](https://x.com/SkyMavisHQ/status/1813199943374356814)) - The marketing launch platform of Ronin
-
 <!---
 - [Hey Mint](https://www.heymint.xyz/) - ([CoinDesk](https://www.coindesk.com/web3/2023/05/15/web3-education-leaders-team-up-to-roll-out-beginner-nft-platform-heymint/)) - Acquired by Alchemy
 
@@ -38,6 +32,8 @@ Build onchain apps and automations that connect wallets, smart contracts, and 2,
 ## AI
 
 - [Granite](https://granitestrata.com/en) - Transaction infrastructure for enterprise commercial real estate
+- [B3](https://b3os.org/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - The Onchain Engine for Agentic AI
+Build onchain apps and automations that connect wallets, smart contracts, and 2,000+ tools you already use
 
 ## Space
 - [Aethero](https://aethero.com/) - ([Payload](https://payloadspace.com/aethero-raises-8-4m-for-space-computers/), [TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/), [Space.com](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)) - first company to fly data-center class AI chips in space and run AI/ML on them. Two operational satellites in space. Customers include: Boeing, Blue Origin, NASA, U.S. Air Force.
@@ -52,8 +48,12 @@ Build onchain apps and automations that connect wallets, smart contracts, and 2,
 - [New Campus](https://www.opencampus.xyz/) - ([TechCrunch](https://techcrunch.com/2021/07/20/newcampus-wants-to-train-the-first-time-managers-within-southeast-asias-tech-giants/)) - Leadership from Netflix, Google, Microsoft, Airbnb, Pinterest, Spotify teach classes online. Classes are highly interactive and focus on topics such as first-time management essentials and creating high performance teams
 
 
-## Plant based
+## Vegan
 
-- [Fabalish](https://www.fabalish.com) - ([vegconomist](https://vegconomist.com/food-and-beverage/egg-alternatives/crafty-counter-fabalish-first-ever-vegan-deviled-eggs/)) - plant-based & allergen free falafel and aquafaba sauces. No meat, dairy, eggs, nuts, soy, gluten, sugar or anything artificial in their foods.
+- [Fabalish](https://www.fabalish.com) - ([vegconomist](https://vegconomist.com/food-and-beverage/egg-alternatives/crafty-counter-fabalish-first-ever-vegan-deviled-eggs/)) - plant-based & allergen free falafel and aquafaba sauces. No animals, dairy, eggs, nuts, soy, gluten, sugar or anything artificial in their foods.
 - [Renegade Foods](https://renegadefoods.com/) - ([vegconomist](https://vegconomist.com/company-news/renegade-foods-triples-production-capabilities/)) - premium plant based charcuterie. Applewood slow-smoked meats made entirely from plants!
+
+## Gaming
+
+- [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - ([Sky Mavis Twitter](https://x.com/SkyMavisHQ/status/1813199943374356814)) - Web3 Gaming Studio
 
