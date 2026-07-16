@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Mori Finance
 
-I founded [Mori Finance](https://mori.finance) in 2026. Mori allows for covered calls to be sold natively on the Solana blockchain to market makers. Users choose their token, choose a date and a price to sell higher and collect USDC upfront.
+I founded [Mori Finance](https://mori.finance) in 2026. Mori allows for covered calls to be sold natively on the Solana blockchain to market makers. Users choose their token, choose a date, a price to sell higher and collect USDC upfront. If the price never hits, then they get their tokens back. If the price hits, they get sent USDC for the sale.
 
 <!--
 ## AI Web3
