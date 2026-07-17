@@ -56,5 +56,5 @@ Build onchain apps and automations that connect wallets, smart contracts, and 2,
 
 ## Gaming
 
-- [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - ([Sky Mavis Twitter](https://x.com/SkyMavisHQ/status/1813199943374356814)) - Gaming Studio with millions in sales
+- [Moku](https://x.com/Moku_HQ/status/1805407187482640642) - ([Blockworks](https://blockworks.com/news/osgood-moku-ai-grand-arena)) - Gaming Studio with millions in sales
 
