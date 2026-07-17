@@ -45,7 +45,8 @@ Build onchain apps and automations that connect wallets, smart contracts, and 2,
 ## Education
 
 - [BAM!](https://www.brains-and-motion.com/) - Brains & Motion Education (BAM!) is a tech-enabled company unlocking the potential of students year-round through summer camp, after-school, and structured recess enrichment programs. To date, BAM has served 1,150+ schools and 93,000 students with 4,600 programs delivered.
-- [New Campus](https://www.opencampus.xyz/) - ([TechCrunch](https://techcrunch.com/2021/07/20/newcampus-wants-to-train-the-first-time-managers-within-southeast-asias-tech-giants/)) - Leadership from Netflix, Google, Microsoft, Airbnb, Pinterest, Spotify teach classes online. Classes are highly interactive and focus on topics such as first-time management essentials and creating high performance teams
+- [New Campus](https://www.opencampus.xyz/) - ([TechCrunch](https://techcrunch.com/2021/07/20/newcampus-wants-to-train-the-first-time-managers-within-southeast-asias-tech-giants/)) - NewCampus builds education-powered products for frontier industries, working with organisations like Coinbase, Binance, and Animoca Brands. The client-facing layer is learning and development. The business model underneath is finance and digital asset management.
+
 
 
 ## Vegan
