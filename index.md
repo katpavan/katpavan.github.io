@@ -32,8 +32,7 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 ## AI
 
 - [Granite](https://granitestrata.com/en) - Transaction infrastructure for enterprise commercial real estate
-- [B3](https://b3os.org/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - The Onchain Engine for Agentic AI
-Build onchain apps and automations that connect wallets, smart contracts, and 2,000+ tools you already use
+- B3: [B3IQ](https://b3iq.org) | [B3OS](https://b3os.org/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - a sovereign AI platform that lets individuals own dedicated, bare-metal NVIDIA GPU systems assembled and hosted in the U.S.
 
 ## Space
 - [Aethero](https://aethero.com/) - ([Payload](https://payloadspace.com/aethero-raises-8-4m-for-space-computers/), [TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/), [Space.com](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)) - first company to fly data-center class AI chips in space and run AI/ML on them. Two operational satellites in space. Customers include: Boeing, Blue Origin, NASA, U.S. Air Force.
