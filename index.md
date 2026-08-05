@@ -7,7 +7,7 @@ layout: home
 
 Hey, I'm Pavan. I write checks so people can save animals and build businesses. Read more [here](/about/).
 
-# Charities I donate to
+# Nonprofits I donate to
 
 - [Heartwood Haven](https://heartwoodhaven.org/) - ([Rescued 60 Roosters](https://www.yelmonline.com/stories/roy-animal-sanctuary-takes-in-nearly-60-roosters-rescue-from-cockfighting,339873), [Rescued 10 Pigs](https://plantbasednews.org/culture/ethics/ten-pigs-rescued-animal-testing/)) Heartwood Haven fights against the disastrous effects of animal cruelty through rescue, education, and sanctuary to promote a more compassionate world for animals and humans.
 
