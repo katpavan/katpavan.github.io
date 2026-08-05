@@ -7,13 +7,13 @@ layout: home
 
 Hey, I'm Pavan. I write checks so people can save animals and build businesses. Read more [here](/about/).
 
-**I donate monthly to:**
+# Charities I donate to
 
 - [Heartwood Haven](https://heartwoodhaven.org/) - ([Rescued 60 Roosters](https://www.yelmonline.com/stories/roy-animal-sanctuary-takes-in-nearly-60-roosters-rescue-from-cockfighting,339873), [Rescued 10 Pigs](https://plantbasednews.org/culture/ethics/ten-pigs-rescued-animal-testing/)) Heartwood Haven fights against the disastrous effects of animal cruelty through rescue, education, and sanctuary to promote a more compassionate world for animals and humans.
 
 - [DXE](https://www.directactioneverywhere.com/) - ([NY Times](https://www.nytimes.com/2026/04/18/us/beagle-facility-wisconsin-protests-tear-gas.html)) ([Vox](https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens)) Direct Action Everywhere is a global network of activists working to achieve revolutionary social and political change for animals in one generation.
 
-**Here are my seed investments:**
+# My seed investments
 
 <!---
 - [Hey Mint](https://www.heymint.xyz/) - ([CoinDesk](https://www.coindesk.com/web3/2023/05/15/web3-education-leaders-team-up-to-roll-out-beginner-nft-platform-heymint/)) - Acquired by Alchemy
@@ -32,7 +32,9 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 ## AI
 
 - [Granite](https://granitestrata.com/en) - Transaction infrastructure for enterprise commercial real estate
-- B3: [B3IQ](https://b3iq.org) + [B3OS](https://b3os.org/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - B3IQ is a sovereign AI platform that lets individuals own dedicated, bare-metal NVIDIA GPU systems assembled and hosted in the USA. B3OS makes it easy to build onchain apps and automations that connect wallets, smart contracts, and 2,000+ tools
+- B3: [B3IQ](https://b3iq.org) + [B3OS](https://b3os.org/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133))
+  - B3IQ is a sovereign AI platform that lets individuals own dedicated, bare-metal NVIDIA GPU systems assembled and hosted in the USA.
+  - B3OS makes it easy to build onchain apps and automations that connect wallets, smart contracts, and 2,000+ tools
 
 ## Space
 - [Aethero](https://aethero.com/) - ([Payload](https://payloadspace.com/aethero-raises-8-4m-for-space-computers/), [TechCrunch](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/), [Space.com](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)) - first company to fly data-center class AI chips in space and run AI/ML on them. Two operational satellites in space. Customers include: Boeing, Blue Origin, NASA, U.S. Air Force.
