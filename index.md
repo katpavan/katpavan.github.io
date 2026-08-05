@@ -13,7 +13,7 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 
 - [DXE](https://www.directactioneverywhere.com/) - ([NY Times](https://www.nytimes.com/2026/04/18/us/beagle-facility-wisconsin-protests-tear-gas.html)) ([Vox](https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens)) Direct Action Everywhere is a global network of activists working to achieve revolutionary social and political change for animals in one generation.
 
-**Here's my portfolio:**
+**Here are my seed investments:**
 
 <!---
 - [Hey Mint](https://www.heymint.xyz/) - ([CoinDesk](https://www.coindesk.com/web3/2023/05/15/web3-education-leaders-team-up-to-roll-out-beginner-nft-platform-heymint/)) - Acquired by Alchemy
