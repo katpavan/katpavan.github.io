@@ -50,7 +50,7 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 
 ## Vegan
 
-- [Fabalish](https://www.fabalish.com) - ([NJ News 12](https://newjersey.news12.com/2026/06/01/made-in-new-jersey-carlstadt-company-reinvents-favorite-foods-with-clean-and-simple-ingredients/2cMdPOgs2Tx4LEJa43PXcg), [vegconomist](https://vegconomist.com/food-and-beverage/egg-alternatives/crafty-counter-fabalish-first-ever-vegan-deviled-eggs/)) - plant-based & allergen free falafel and aquafaba sauces. No animals, dairy, eggs, nuts, soy, gluten, sugar or anything artificial in their foods.
+- [Fabalish](https://www.fabalish.com) - ([NJ News 12](https://newjersey.news12.com/2026/06/01/made-in-new-jersey-carlstadt-company-reinvents-favorite-foods-with-clean-and-simple-ingredients/2cMdPOgs2Tx4LEJa43PXcg), [vegconomist](https://vegconomist.com/food-and-beverage/egg-alternatives/crafty-counter-fabalish-first-ever-vegan-deviled-eggs/)) - plant-based & allergen free falafel and aquafaba sauces. No animals, dairy, eggs, nuts, soy, gluten, sugar or anything artificial in their foods. Made in an entirely allergen free facility!
 - [Renegade Foods](https://renegadefoods.com/) - ([vegconomist](https://vegconomist.com/company-news/renegade-foods-triples-production-capabilities/)) - premium plant based charcuterie. Applewood slow-smoked meats made entirely from plants!
 
 ## Gaming
