@@ -32,7 +32,7 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 ## AI
 
 - [Granite](https://granitestrata.com/en) - Transaction infrastructure for enterprise commercial real estate
-- B3 - 
+- B3 
   - [B3IQ](https://b3iq.org) - ([Fortune](https://fortune.com/2026/08/11/ai-startup-b3-has-found-a-compute-niche-with-a-rent-to-own-model-aimed-at-academics-clients-include-stanford-and-nyu-researchers/?b3labs), [Twitter](https://x.com/b3labs/status/2087184865666191625?s=20)) - is a sovereign AI platform that lets individuals own dedicated, bare-metal NVIDIA GPU systems assembled and hosted in the USA.
   - [B3OS](https://b3os.org/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - makes it easy to build onchain apps and automations that connect wallets, smart contracts, and 2,000+ tools
 
