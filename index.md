@@ -16,6 +16,8 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 # My seed investments
 
 <!---
+dead
+
 - [Hey Mint](https://www.heymint.xyz/) - ([CoinDesk](https://www.coindesk.com/web3/2023/05/15/web3-education-leaders-team-up-to-roll-out-beginner-nft-platform-heymint/)) - Acquired by Alchemy
 
 - [Nest Wallet](https://nestwallet.xyz/) - ([Safe Blog](https://safe.global/blog/safe-case-2-digital-ownership-in-your-pocket)) - A Wallet Engineered for Mobile Traders
@@ -31,7 +33,8 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 
 ## AI
 
-- [Granite](https://granitestrata.com/en) - Transaction infrastructure for enterprise commercial real estate
+- [Granite](https://granitestrata.com/en) - Granite is the AI-native platform that manages leases, surfaces every critical decision, and brings portfolio execution in-house.
+
 - B3 
   - [B3IQ](https://b3iq.org) - ([Fortune](https://fortune.com/2026/08/11/ai-startup-b3-has-found-a-compute-niche-with-a-rent-to-own-model-aimed-at-academics-clients-include-stanford-and-nyu-researchers/?b3labs), [Twitter](https://x.com/b3labs/status/2087184865666191625?s=20)) - is a sovereign AI platform that lets individuals own dedicated, bare-metal NVIDIA GPU systems assembled and hosted in the USA.
   - [B3OS](https://b3os.org/) - ([VentureBeat](https://venturebeat.com/games/npc-labs-raises-18m-to-bring-mainstream-games-to-web3/), [Twitter trending](https://x.com/i/trending/1815454338413982133)) - makes it easy to build onchain apps and automations that connect wallets, smart contracts, and 2,000+ tools
@@ -47,8 +50,6 @@ Hey, I'm Pavan. I write checks so people can save animals and build businesses. 
 
 - [BAM!](https://www.brains-and-motion.com/) - Brains & Motion Education (BAM!) is a tech-enabled company unlocking the potential of students year-round through summer camp, after-school, and structured recess enrichment programs. To date, BAM has served 1,150+ schools and 93,000 students with 4,600 programs delivered.
 - [New Campus](https://www.opencampus.xyz/) - ([TechCrunch](https://techcrunch.com/2021/07/20/newcampus-wants-to-train-the-first-time-managers-within-southeast-asias-tech-giants/)) - NewCampus builds education-powered products for frontier industries, working with organisations like Coinbase, Binance, and Animoca Brands. The client-facing layer is learning and development. The business model underneath is finance and digital asset management.
-
-
 
 ## Vegan
 
